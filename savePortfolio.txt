@@ -1,0 +1,8 @@
+Username: Kamal
+Balance: 30.0
+
+Security: Amazon
+Assets owned: 1.6
+
+Security: Tesla
+Assets owned: 1.5
