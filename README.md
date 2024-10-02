@@ -10,7 +10,7 @@ To set up and run this project on your local machine, follow these steps:
 Ensure you have JDK (Java Development Kit) installed on your machine. You can check if it's installed by running the following command in your terminal/command prompt: 
 
 ```
-java -version
+$ java -version
 ```
 
 If not installed, download from Oracle's website. 
